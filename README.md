@@ -2,9 +2,8 @@
 <head></head>
 <body>
 <h2>cookie cliker</h2> 
-  <a href="games/cookie-clikcer.html"]>cookie clikcer</a>
+  <a href="games/cookie-clikcer.html"]>cookie clikcer</a> scr="https://duckmath.org/assets/html-gabes/cookieclicker/cookieclicker/"
 <iframe
-  scr="https://cyrillbrito.github.io/cookieclicker/"
   ></iframe>
 </body>
 </hteml>
