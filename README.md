@@ -6,5 +6,4 @@
 </head>
 <body>
     <h2>Cookie Clicker</h2>
-    <a href="https://your-link-here.com">Cookie Clicker</a>
-    <iframe src="https://duckmath.org/assets/html-gabes/cookieclicker/cookieclicker/"></iframe>
+    <a href="https://https://duckmath.org/assets/html-gabes/cookieclicker">Cookie Clicker</a>
