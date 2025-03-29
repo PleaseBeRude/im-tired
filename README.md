@@ -6,4 +6,4 @@
 </head>
 <body>
     <h2>Cookie Clicker</h2>
-    <a href="https://https://assets/html-gabes/cookieclicker">Cookie Clicker</a>
+    <a href="https://duckmath.org/assets/html-gabes/cookieclicker">Cookie Clicker</a>
